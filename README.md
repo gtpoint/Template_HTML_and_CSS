@@ -39,7 +39,7 @@ The designs were created to the following widths:
 
 #### Headings, Call-to-actions, Header Navigation :
 
-- Family: [Cairo](https://fonts.google.com/specimen/Cairo)
+- Family: [Nunito](https://fonts.google.com/specimen/Nunito)
 - Weights: 400, 700
 
 #### Body
